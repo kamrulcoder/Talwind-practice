@@ -26,4 +26,10 @@ Then make folder src/css and public
     git run build-css
 
 
-## That,s  it  Tailwind Css framework setup  Command and crate 
+###  And Include  in your  css file command 
+
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+
+#### That,s  it  Tailwind Css framework setup  Command and create

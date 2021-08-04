@@ -8,11 +8,10 @@
 
 ### // Firstly via Setup
     
-    Command : 
     npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
 
 ## Then Packege json install 
-    command :- npm init -y 
+    npm init -y 
 
 ## Then Config setupe 
     npx tailwindcss init
